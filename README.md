@@ -57,6 +57,7 @@ const EXPORT_PADDING = 40;   // 导出图片边距（px）
 const MIN_WIDTH = 2400;      // 导出最小宽度
 const BIG_STEP = 0.1;        // Ctrl 缩放步长
 const SMALL_STEP = 0.02;     // Shift 缩放步长
+
 ## 📝 注意事项
 Mermaid 代码语法请参考 官方文档。
 全屏模式基于浏览器 Fullscreen API，部分浏览器可能需要用户手动操作。
